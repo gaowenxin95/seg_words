@@ -4,4 +4,5 @@ seg_words/seg_words.py
 seg_words.egg-info/PKG-INFO
 seg_words.egg-info/SOURCES.txt
 seg_words.egg-info/dependency_links.txt
+seg_words.egg-info/requires.txt
 seg_words.egg-info/top_level.txt
